@@ -217,6 +217,3 @@ let list: string[] = []
 let abc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 list = abc.split("")
 images.iconImage(IconNames.Ghost).showImage(0)
-basic.forever(function () {
-	
-})
